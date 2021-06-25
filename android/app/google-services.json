@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503701243524",
+    "project_id": "dsc-task-3",
+    "storage_bucket": "dsc-task-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503701243524:android:2aee8ec889fa5bc50924d1",
+        "android_client_info": {
+          "package_name": "com.example.dsc_task_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503701243524-tfi932d8cmim1kps07n9e6gsq6t1p45q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhCOL7dMr2ZkROZpbNY9XlkhO1ldUeXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503701243524-tfi932d8cmim1kps07n9e6gsq6t1p45q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
